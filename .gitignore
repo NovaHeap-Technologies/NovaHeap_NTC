@@ -1,0 +1,5 @@
+extras/test/test_ntc
+extras/test/test_ntc_esp32
+extras/test/test_ntc_esp8266
+extras/test/*.exe
+build/

@@ -1,0 +1,28 @@
+# NovaHeap_NTC syntax colouring for the Arduino IDE
+
+NHThermistor	KEYWORD1
+NHNtcWiring	KEYWORD1
+NHNtcStatus	KEYWORD1
+
+setSeriesResistor	KEYWORD2
+setWiring	KEYWORD2
+setBeta	KEYWORD2
+setSteinhartHart	KEYWORD2
+setThreePoints	KEYWORD2
+setReference	KEYWORD2
+setSupply	KEYWORD2
+setFilterTime	KEYWORD2
+setOffset	KEYWORD2
+begin	KEYWORD2
+update	KEYWORD2
+celsius	KEYWORD2
+fahrenheit	KEYWORD2
+resistance	KEYWORD2
+status	KEYWORD2
+isOk	KEYWORD2
+
+NH_NTC_TO_GND	LITERAL1
+NH_NTC_TO_VCC	LITERAL1
+NH_NTC_OK	LITERAL1
+NH_NTC_OPEN	LITERAL1
+NH_NTC_SHORT	LITERAL1
